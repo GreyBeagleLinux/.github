@@ -9,7 +9,7 @@ This project also allows creating customized images for any embedded device usin
 The documentation for Grey Beagle Linux is generated using [Antora](https://antora.org/),
 and the source code is contained in the [documentation repository](https://github.com/GreyBeagleLinux/documentation).
 
-You can find the [rendered documentation at GitHub Pages](https://greybeaglelinux.github.io/documentation/Grey%20Beagle%20Linux/index.html).
+You can find the [rendered documentation at GitHub Pages](https://greybeaglelinux.github.io/documentation/).
 
 ## Anouncements
 
